@@ -1,2 +1,2 @@
-# LetsCodePython
-Python programs, project ideas, automation, frameworks etc. 
+# LetsCodePython :snowflake:
+### Python programs, project ideas, automation, frameworks etc. 
